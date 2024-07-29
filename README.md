@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/2024_paris6/20240727_045.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/2024_paris7/20240728_004.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -92,25 +92,87 @@ background-color: rgba(0, 225, 0, 0.6);
 </p>
 
 <!--<div style="background-color:rgb(255,255,255,0.5);">-->
-<p class="topicpath"><a href="https://torokoid.github.io/2024_paris/">2024年7月19日〜21日</a>><a href="https://torokoid.github.io/2024_paris2/">22日〜23日</a>><a href="https://torokoid.github.io/2024_paris3/">23日〜24日</a>><a href="https://torokoid.github.io/2024_paris4/">24日〜</a>><a href="https://torokoid.github.io/2024_paris5/">25日〜</a>>26日〜</p><!--</div>-->
+<p class="topicpath"><a href="https://torokoid.github.io/2024_paris/">2024年7月19日〜21日</a>><a href="https://torokoid.github.io/2024_paris2/">22日〜23日</a>><a href="https://torokoid.github.io/2024_paris3/">23日〜24日</a>><a href="https://torokoid.github.io/2024_paris4/">24日〜</a>><a href="https://torokoid.github.io/2024_paris5/">25日〜</a>><a href="https://torokoid.github.io/2024_paris6/">26日〜</a>>28日〜</p><!--</div>-->
 
 <p align="left"> <span class="yellow">&nbsp;Bruce 26日〜</span></p>
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
 <br><br>
-<p align="left"> <img src="paris6.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="paris7.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 
 <br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<h2><span class="yellow"><marquee behavior="left">!!! 2024年7月26日、電車が止まったナントからパリにバスで移動 !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!! 2024年7月27日、次女帰国後に単独行動 !!!</marquee></span></h2>
 <!--
 <div id="wrap">
 -->
 <!--
 <h3><span class="yellow"><br>～～～2024年7月25日着の画像です！～～～<br><br></span></h3>
 --><br><br><br><br><br><br><br><br><br><br>
-<h3><span class="yellow"><br>～～～LINEでの会話を書き留めておきます、トラブル発生直後！～～～<br><br></span></h3>
 
+<div style="background-color:rgb(255,255,255,0.8);">
+<h3><br>次女が午後4時のフライトで帰国。朝一単独行動で買い物。<br>
+11:30アパートを出て買い物<br>
+私の電車は13:44<br>
+ギリギリまで荷物番。13時私はモンパルナス駅へ。<br>
+次女はトランク引きずりながらお買い物<br><br>
 
+シャルル・ド・ゴール空港に到着の連絡あり。<br>
+ボルドー行き電車は45分遅れで出発。到着17:00<br>
+ホテルを探し開始。単独行動なのでホステル。<br><br></h3></div>
+
+<a href="2024072_001.JPG" data-lightbox="abc"><img src="2024072_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_002.JPG" data-lightbox="abc"><img src="2024072_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_003.JPG" data-lightbox="abc"><img src="2024072_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_004.JPG" data-lightbox="abc"><img src="2024072_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_005.JPG" data-lightbox="abc"><img src="2024072_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_006.JPG" data-lightbox="abc"><img src="2024072_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_007.JPG" data-lightbox="abc"><img src="2024072_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_008.JPG" data-lightbox="abc"><img src="2024072_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_009.JPG" data-lightbox="abc"><img src="2024072_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_010.JPG" data-lightbox="abc"><img src="2024072_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_011.JPG" data-lightbox="abc"><img src="2024072_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_012.JPG" data-lightbox="abc"><img src="2024072_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_013.JPG" data-lightbox="abc"><img src="2024072_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_014.JPG" data-lightbox="abc"><img src="2024072_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_015.JPG" data-lightbox="abc"><img src="2024072_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_016.JPG" data-lightbox="abc"><img src="2024072_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_017.JPG" data-lightbox="abc"><img src="2024072_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_018.JPG" data-lightbox="abc"><img src="2024072_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_019.JPG" data-lightbox="abc"><img src="2024072_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_020.JPG" data-lightbox="abc"><img src="2024072_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_021.JPG" data-lightbox="abc"><img src="2024072_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_022.JPG" data-lightbox="abc"><img src="2024072_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_023.JPG" data-lightbox="abc"><img src="2024072_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_024.JPG" data-lightbox="abc"><img src="2024072_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_025.JPG" data-lightbox="abc"><img src="2024072_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_026.JPG" data-lightbox="abc"><img src="2024072_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_027.JPG" data-lightbox="abc"><img src="2024072_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_028.JPG" data-lightbox="abc"><img src="2024072_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_029.JPG" data-lightbox="abc"><img src="2024072_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_030.JPG" data-lightbox="abc"><img src="2024072_030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_031.JPG" data-lightbox="abc"><img src="2024072_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_032.JPG" data-lightbox="abc"><img src="2024072_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_033.JPG" data-lightbox="abc"><img src="2024072_033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_034.JPG" data-lightbox="abc"><img src="2024072_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_035.JPG" data-lightbox="abc"><img src="2024072_035.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_036.JPG" data-lightbox="abc"><img src="2024072_036.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_037.JPG" data-lightbox="abc"><img src="2024072_037.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_038.JPG" data-lightbox="abc"><img src="2024072_038.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_039.JPG" data-lightbox="abc"><img src="2024072_039.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_040.JPG" data-lightbox="abc"><img src="2024072_040.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_041.JPG" data-lightbox="abc"><img src="2024072_041.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_042.JPG" data-lightbox="abc"><img src="2024072_042.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_043.JPG" data-lightbox="abc"><img src="2024072_043.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_044.JPG" data-lightbox="abc"><img src="2024072_044.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_045.JPG" data-lightbox="abc"><img src="2024072_045.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>～～～Merciという有名店の最寄り駅から2回目のモンパルナス駅～～～<br><br></span></h3>
+
+<a href="2024072_046.JPG" data-lightbox="abc"><img src="2024072_046.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_047.JPG" data-lightbox="abc"><img src="2024072_047.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_048.JPG" data-lightbox="abc"><img src="2024072_048.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_049.JPG" data-lightbox="abc"><img src="2024072_049.JPG" alt="サンプル画像" width="900" /></a>
+<a href="2024072_050.JPG" data-lightbox="abc"><img src="2024072_050.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～大泉高校30期卒業同期会LINEでの会話～～～<br><br></span></h3>
 
