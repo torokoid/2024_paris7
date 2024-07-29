@@ -177,9 +177,19 @@ background-color: rgba(0, 225, 0, 0.6);
 <h3><span class="yellow"><br>～～～07:07 Bruce パリからちょっと進んだだけで停車<br>
 07:08 Bruce 動きました。二回目のボルドー～～～<br><br></span></h3>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rfDYD2pdtbM?si=WU0pjqK343s5Dfxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AMMiUkL5AZc?si=FX4ZkN79hwzXk6cl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tp9fx551Ekc?si=fa6zikLnGwambW4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KTnwPPJx2e8?si=pvaZ-A4yzfTIlyq2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yw6USNMlLU?si=uiEGHLnZaKcvDBG3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O6JqGDOPyXg?si=FDyl4cmyCKQwy1YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!--
 <h2><span class="yellow"><marquee behavior="left">!!! （ナントで足止めされたので）荷物を預けて駅近くのお城へ。その後、買い物。 !!!</marquee></span></h2>
 
 
@@ -201,7 +211,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 <h3><span class="yellow"><br>～～～最後にBruceからの鉄道復旧状況報告～～～<br><br></span></h3>
-
+-->
 
 
 <!--
