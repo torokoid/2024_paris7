@@ -174,7 +174,10 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240728_049.JPG" data-lightbox="abc"><img src="20240728_049.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240728_050.JPG" data-lightbox="abc"><img src="20240728_050.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～大泉高校30期卒業同期会LINEでの会話～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～07:07 Bruce パリからちょっと進んだだけで停車<br>
+07:08 Bruce 動きました。二回目のボルドー～～～<br><br></span></h3>
+
+
 
 
 <h2><span class="yellow"><marquee behavior="left">!!! （ナントで足止めされたので）荷物を預けて駅近くのお城へ。その後、買い物。 !!!</marquee></span></h2>
