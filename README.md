@@ -258,11 +258,42 @@ background-color: rgba(0, 225, 0, 0.6);
 <h3><span class="yellow"><br>～～～バスでナントへ<br>
 ナントスタジアムの近くのアパートメントを予約。ついでに周りを散歩、～～～<br><br></span></h3>
 
-
-
+<a href="20240728_092.JPG" data-lightbox="abc"><img src="20240728_092.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_093.JPG" data-lightbox="abc"><img src="20240728_093.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_094.JPG" data-lightbox="abc"><img src="20240728_094.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_095.JPG" data-lightbox="abc"><img src="20240728_095.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_096.JPG" data-lightbox="abc"><img src="20240728_096.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_097.JPG" data-lightbox="abc"><img src="20240728_097.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_098.JPG" data-lightbox="abc"><img src="20240728_098.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_099.JPG" data-lightbox="abc"><img src="20240728_099.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_100.JPG" data-lightbox="abc"><img src="20240728_100.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_101.JPG" data-lightbox="abc"><img src="20240728_101.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_102.JPG" data-lightbox="abc"><img src="20240728_102.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_103.JPG" data-lightbox="abc"><img src="20240728_103.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_104.JPG" data-lightbox="abc"><img src="20240728_104.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_105.JPG" data-lightbox="abc"><img src="20240728_105.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_106.JPG" data-lightbox="abc"><img src="20240728_106.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_107.JPG" data-lightbox="abc"><img src="20240728_107.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_108.JPG" data-lightbox="abc"><img src="20240728_108.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_109.JPG" data-lightbox="abc"><img src="20240728_109.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_110.JPG" data-lightbox="abc"><img src="20240728_110.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_111.JPG" data-lightbox="abc"><img src="20240728_111.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_112.JPG" data-lightbox="abc"><img src="20240728_112.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_113.JPG" data-lightbox="abc"><img src="20240728_113.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～アパートで休んでいる間にスペイン対ナイジェリアのチケット購入。19:00キックオフ,時計をみたら18時をまわっている。<br>
 近道をするとこにいたら、高速の側道を歩いていた。橋の下から上がれた、～～～<br><br></span></h3>
+
+<a href="20240728_114.JPG" data-lightbox="abc"><img src="20240728_114.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_115.JPG" data-lightbox="abc"><img src="20240728_115.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_116.JPG" data-lightbox="abc"><img src="20240728_116.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_117.JPG" data-lightbox="abc"><img src="20240728_117.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_118.JPG" data-lightbox="abc"><img src="20240728_118.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_119.JPG" data-lightbox="abc"><img src="20240728_119.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>～～～スペイン対ナイジェリア。日本戦と違い、スペインサポーターが大きな声を出していた～～～<br><br></span></h3>
+
+
 
 
 
@@ -270,8 +301,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 
-<h3><span class="yellow"><br>～～～アパートで休んでいる間にスペイン対ナイジェリアのチケット購入。19:00キックオフ,時計をみたら18時をまわっている。<br>
-近道をするとこにいたら、高速の側道を歩いていた。橋の下から上がれた、～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～スペイン対ナイジェリア。日本戦と違い、スペインサポーターが大きな声を出していた～～～<br><br></span></h3>
 
 
 
