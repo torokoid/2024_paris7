@@ -240,20 +240,30 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240728_087.JPG" data-lightbox="abc"><img src="20240728_087.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240728_088.JPG" data-lightbox="abc"><img src="20240728_088.JPG" alt="サンプル画像" width="900" /></a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dK5pEApND5w?si=0CW9-zU8HbgC-JTz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T_lKNHW_ESs?si=vL0ZxS1PTKOjcDfe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O6s4btm6Tys?si=ZJdqTPe8DOP3m8Ma" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<a href="20240728_089.JPG" data-lightbox="abc"><img src="20240728_089.JPG" alt="サンプル画像" width="900" /></a>
+
 <h3><span class="yellow"><br>～～～ヒーローインタビューをうけてから、ブライアンがやつてきた<br>
 試合終了後、トラム(路面電車)で市内へ。レストランは店仕舞い。ホステルで生ビール飲んで爆睡。
 <br>7:30に起きた。ボルドー8:30発なパスを予約、～～～<br><br></span></h3>
 
 
+
+<h3><span class="yellow"><br>～～～バスでナントへ<br>
+ナントスタジアムの近くのアパートメントを予約。ついでに周りを散歩、～～～<br><br></span></h3>
 
 
 <h2><span class="yellow"><marquee behavior="left">!!! （ナントで足止めされたので）荷物を預けて駅近くのお城へ。その後、買い物。 !!!</marquee></span></h2>
 
 
 
-<h3><span class="yellow"><br>～～～ヒーローインタビューをうけてから、ブライアンがやつてきた<br>
-試合終了後、トラム(路面電車)で市内へ。レストランは店仕舞い。ホステルで生ビール飲んで爆睡。
-<br>7:30に起きた。ボルドー8:30発なパスを予約、～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～バスでナントへ<br>
+ナントスタジアムの近くのアパートメントを予約。ついでに周りを散歩、～～～<br><br></span></h3>
 
 
 
