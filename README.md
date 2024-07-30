@@ -235,6 +235,15 @@ background-color: rgba(0, 225, 0, 0.6);
 <h3><span class="yellow"><br>～～～サポートメンバーだったヴェルディ山本。今日と今ひとつ<br>
 この試合は、GKが勝利を導くと予想。小久保ブライアンを撮影～～～<br><br></span></h3>
 
+<a href="20240728_085.JPG" data-lightbox="abc"><img src="20240728_085.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_086.JPG" data-lightbox="abc"><img src="20240728_086.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_087.JPG" data-lightbox="abc"><img src="20240728_087.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_088.JPG" data-lightbox="abc"><img src="20240728_088.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>～～～ヒーローインタビューをうけてから、ブライアンがやつてきた<br>
+試合終了後、トラム(路面電車)で市内へ。レストランは店仕舞い。ホステルで生ビール飲んで爆睡。
+<br>7:30に起きた。ボルドー8:30発なパスを予約、～～～<br><br></span></h3>
+
 
 
 
@@ -242,8 +251,9 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 
-<h3><span class="yellow"><br>～～～サポートメンバーだったヴェルディ山本。今日と今ひとつ<br>
-この試合は、GKが勝利を導くと予想。小久保ブライアンを撮影～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～ヒーローインタビューをうけてから、ブライアンがやつてきた<br>
+試合終了後、トラム(路面電車)で市内へ。レストランは店仕舞い。ホステルで生ビール飲んで爆睡。
+<br>7:30に起きた。ボルドー8:30発なパスを予約、～～～<br><br></span></h3>
 
 
 
