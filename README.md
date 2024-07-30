@@ -174,8 +174,8 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240728_049.JPG" data-lightbox="abc"><img src="20240728_049.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240728_050.JPG" data-lightbox="abc"><img src="20240728_050.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～07:07 Bruce パリからちょっと進んだだけで停車<br>
-07:08 Bruce 動きました。二回目のボルドー～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～パリからちょっと進んだだけで停車<br>
+動きました。二回目のボルドー～～～<br><br></span></h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rfDYD2pdtbM?si=WU0pjqK343s5Dfxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
