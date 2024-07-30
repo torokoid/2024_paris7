@@ -298,17 +298,33 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240728_122.JPG" data-lightbox="abc"><img src="20240728_122.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240728_123.JPG" data-lightbox="abc"><img src="20240728_123.JPG" alt="サンプル画像" width="900" /></a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cTW6r1i1H7I?si=X9TYy8a0TLAALR7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<a href="20240728_124.JPG" data-lightbox="abc"><img src="20240728_124.JPG" alt="サンプル画像" width="900" /></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CUhzr8D33_g?si=zmJSObD8W61rdJEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<a href="20240728_125.JPG" data-lightbox="abc"><img src="20240728_125.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_126.JPG" data-lightbox="abc"><img src="20240728_126.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～ナイジェリアの選手がサポーターと写真撮影していた～～～<br><br></span></h3>
 
 
 
+<h3><span class="yellow"><br>～～～明日はサッカーがないので休養<br><br>
+この写真の1番上の左<br>
+この柵から私は上がってきた<br>
+帰りは高速の脇の公園まで道がある。地元の人は、ここに路駐している模様。～～～<br><br></span></h3>
+
+<!--
 <h2><span class="yellow"><marquee behavior="left">!!! （ナントで足止めされたので）荷物を預けて駅近くのお城へ。その後、買い物。 !!!</marquee></span></h2>
 
 
 
-<h3><span class="yellow"><br>～～～ナイジェリアの選手がサポーターと写真撮影していた～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～明日はサッカーがないので休養<br><br>
+この写真の1番上の左<br>
+この柵から私は上がってきた<br>
+帰りは高速の脇の公園まで道がある。地元の人は、ここに路駐している模様。～～～<br><br></span></h3>
 
 
 
@@ -325,7 +341,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 <h3><span class="yellow"><br>～～～最後にBruceからの鉄道復旧状況報告～～～<br><br></span></h3>
-
+-->
 
 
 <!--
