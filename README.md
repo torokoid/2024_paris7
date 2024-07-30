@@ -227,7 +227,10 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～このWIFIパスワードではつながらない。フロントの人に聞いたら、別の画面を開き、小文字だけの10文字以上のパリワードを入力してインターネット接続完了～～～<br><br></span></h3>
 
-
+<a href="20240728_081.JPG" data-lightbox="abc"><img src="20240728_081.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_082.JPG" data-lightbox="abc"><img src="20240728_082.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_083.JPG" data-lightbox="abc"><img src="20240728_083.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_084.JPG" data-lightbox="abc"><img src="20240728_084.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～サポートメンバーだったヴェルディ山本。今日と今ひとつ<br>
 この試合は、GKが勝利を導くと予想。小久保ブライアンを撮影～～～<br><br></span></h3>
