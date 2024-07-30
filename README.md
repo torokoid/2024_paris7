@@ -293,7 +293,14 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～スペイン対ナイジェリア。日本戦と違い、スペインサポーターが大きな声を出していた～～～<br><br></span></h3>
 
+<a href="20240728_120.JPG" data-lightbox="abc"><img src="20240728_120.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_121.JPG" data-lightbox="abc"><img src="20240728_121.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_122.JPG" data-lightbox="abc"><img src="20240728_122.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_123.JPG" data-lightbox="abc"><img src="20240728_123.JPG" alt="サンプル画像" width="900" /></a>
 
+
+
+<h3><span class="yellow"><br>～～～ナイジェリアの選手がサポーターと写真撮影していた～～～<br><br></span></h3>
 
 
 
@@ -301,7 +308,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 
-<h3><span class="yellow"><br>～～～スペイン対ナイジェリア。日本戦と違い、スペインサポーターが大きな声を出していた～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～ナイジェリアの選手がサポーターと写真撮影していた～～～<br><br></span></h3>
 
 
 
