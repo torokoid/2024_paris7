@@ -198,9 +198,40 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～ホステルを予約。歩いていくことにした～～～<br><br></span></h3>
 
-
+<a href="20240728_055.JPG" data-lightbox="abc"><img src="20240728_055.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_056.JPG" data-lightbox="abc"><img src="20240728_056.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_057.JPG" data-lightbox="abc"><img src="20240728_057.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_058.JPG" data-lightbox="abc"><img src="20240728_058.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_059.JPG" data-lightbox="abc"><img src="20240728_059.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_060.JPG" data-lightbox="abc"><img src="20240728_060.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_061.JPG" data-lightbox="abc"><img src="20240728_061.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_062.JPG" data-lightbox="abc"><img src="20240728_062.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_063.JPG" data-lightbox="abc"><img src="20240728_063.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_064.JPG" data-lightbox="abc"><img src="20240728_064.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_065.JPG" data-lightbox="abc"><img src="20240728_065.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_066.JPG" data-lightbox="abc"><img src="20240728_066.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_067.JPG" data-lightbox="abc"><img src="20240728_067.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_068.JPG" data-lightbox="abc"><img src="20240728_068.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_069.JPG" data-lightbox="abc"><img src="20240728_069.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_070.JPG" data-lightbox="abc"><img src="20240728_070.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_071.JPG" data-lightbox="abc"><img src="20240728_071.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_072.JPG" data-lightbox="abc"><img src="20240728_072.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_073.JPG" data-lightbox="abc"><img src="20240728_073.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_074.JPG" data-lightbox="abc"><img src="20240728_074.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_075.JPG" data-lightbox="abc"><img src="20240728_075.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_076.JPG" data-lightbox="abc"><img src="20240728_076.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_077.JPG" data-lightbox="abc"><img src="20240728_077.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_078.JPG" data-lightbox="abc"><img src="20240728_078.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_079.JPG" data-lightbox="abc"><img src="20240728_079.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240728_080.JPG" data-lightbox="abc"><img src="20240728_080.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～このWIFIパスワードではつながらない。フロントの人に聞いたら、別の画面を開き、小文字だけの10文字以上のパリワードを入力してインターネット接続完了～～～<br><br></span></h3>
+
+
+
+<h3><span class="yellow"><br>～～～サポートメンバーだったヴェルディ山本。今日と今ひとつ<br>
+この試合は、GKが勝利を導くと予想。小久保ブライアンを撮影～～～<br><br></span></h3>
+
 
 
 
@@ -208,7 +239,8 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 
-<h3><span class="yellow"><br>～～～このWIFIパスワードではつながらない。フロントの人に聞いたら、別の画面を開き、小文字だけの10文字以上のパリワードを入力してインターネット接続完了～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～サポートメンバーだったヴェルディ山本。今日と今ひとつ<br>
+この試合は、GKが勝利を導くと予想。小久保ブライアンを撮影～～～<br><br></span></h3>
 
 
 
