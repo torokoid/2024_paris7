@@ -189,12 +189,21 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O6JqGDOPyXg?si=FDyl4cmyCKQwy1YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<!--
+<h3><span class="yellow"><br>～～～昨日のテロで混乱しているのか？～～～<br><br></span></h3>
+
+
+
+<h3><span class="yellow"><br>～～～ホステルを予約。歩いていくことにした～～～<br><br></span></h3>
+
+
+
+
+
 <h2><span class="yellow"><marquee behavior="left">!!! （ナントで足止めされたので）荷物を預けて駅近くのお城へ。その後、買い物。 !!!</marquee></span></h2>
 
 
 
-<h3><span class="yellow"><br>～～～14時にアパートの前で鍵を受け取る予定が間に合わない。鍵をセキュリティボックスに入れるので写真で手順を送ってもらいました～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～ホステルを予約。歩いていくことにした～～～<br><br></span></h3>
 
 
 
@@ -211,7 +220,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 <h3><span class="yellow"><br>～～～最後にBruceからの鉄道復旧状況報告～～～<br><br></span></h3>
--->
+
 
 
 <!--
